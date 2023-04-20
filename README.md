@@ -26,7 +26,7 @@ Authored by Ron Nathaniel
 > <br>
 > <img src="https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2019/08/three_pillars_observability.jpg" height="300px">
 > <br>
-> = MELT. (a Telemetry Data stack).
+> = MeLT. (a Telemetry Data stack).
 
 <br>
 <br>
