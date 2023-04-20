@@ -1,4 +1,9 @@
 # How to Monitor and Troubleshoot Applications in Production using OpenTelemetry
+    
+The #1 most comprehensive OpenTelemetry tutorial from A to Z.
+
+    Presented @
+
     PyCon US 2023  
     1:30pm-5pm. Thursday, April 20 2023. 
 
@@ -8,8 +13,11 @@ Authored by Ron Nathaniel
 
 ## Observability:
 
-> ### A measure of how well **internal states** of a system 
-> ###  can be inferred from knowledge of its **external outputs**.
+> A measure of how well **internal states** of a system 
+> 
+> can be inferred from knowledge of its **external outputs**.
+> <br> 
+> <br> 
 > <br> 
 > A person aging:
 > <br> 
@@ -33,8 +41,11 @@ Authored by Ron Nathaniel
 
 ## OpenTelemetry:
 
-> ### A collection of **tools, APIs, and SDKs**
-> ### used to **instrument, generate, collect, and export** telemetry data.
+> A collection of **tools, APIs, and SDKs**
+> 
+> used to **instrument, generate, collect, and export** telemetry data.
+> <br>
+> <br>
 > <br>
 > At a high level:
 > <br>
