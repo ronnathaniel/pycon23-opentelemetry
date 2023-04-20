@@ -6,14 +6,11 @@ Authored by Ron Nathaniel
 
 <img src="https://opentelemetry.io/img/social/logo-wordmark-001.png" height="400px">
 
-#### Observability:
+## Observability:
 
->A measure of how well 
-> **internal states** of a system 
->can be inferred from knowledge 
-> of its **external outputs**
+> ### A measure of how well **internal states** of a system 
+> ###  can be inferred from knowledge of its **external outputs**.
 > <br> 
-> <br>
 > A person aging:
 > <br> 
 > <img src="https://media.istockphoto.com/id/1305631710/photo/comparison-of-young-and-elderly-time-young-and-adult.jpg?s=612x612&w=0&k=20&c=d19b9IklmST4YXOPpd0qrDE7fLnbZwmEMFybdUBYSkM=" >
@@ -29,16 +26,15 @@ Authored by Ron Nathaniel
 > <br>
 > <img src="https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2019/08/three_pillars_observability.jpg" height="300px">
 > <br>
-> = MeLT. (a Telemetry Data stack).
+> = MELT. (a Telemetry Data stack).
 
 <br>
 <br>
 
-#### OpenTelemetry:
+## OpenTelemetry:
 
-> A collection of **tools, APIs, and SDKs**
-> used to **instrument, generate, collect, and export** telemetry data.
-> <br>
+> ### A collection of **tools, APIs, and SDKs**
+> ### used to **instrument, generate, collect, and export** telemetry data.
 > <br>
 > At a high level:
 > <br>
