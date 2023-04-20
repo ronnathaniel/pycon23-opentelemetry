@@ -9,41 +9,45 @@ Authored by Ron Nathaniel
 #### Observability:
 
 >A measure of how well 
-**internal states** of a system 
+> **internal states** of a system 
 >can be inferred from knowledge 
-of its **external outputs**
-<br> 
+> of its **external outputs**
+> <br> 
 <br>
-A person aging:
-<br> 
-![Aging](https://media.istockphoto.com/id/1305631710/photo/comparison-of-young-and-elderly-time-young-and-adult.jpg?s=612x612&w=0&k=20&c=d19b9IklmST4YXOPpd0qrDE7fLnbZwmEMFybdUBYSkM=)
+> A person aging:
+> <br> 
+> <img src="https://media.istockphoto.com/id/1305631710/photo/comparison-of-young-and-elderly-time-young-and-adult.jpg?s=612x612&w=0&k=20&c=d19b9IklmST4YXOPpd0qrDE7fLnbZwmEMFybdUBYSkM=" >
+> <br>
+> <br>
+> A star burning:
+> <br>
+> <img src="https://scitechdaily.com/images/Burning-Star-Sun-Space-Illustration.jpg" height="400px">
+> <br>
+> <br>
+> <br>
+> Three Pillars of Observability:
+> <br>
+> <img src="https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2019/08/three_pillars_observability.jpg" height="300px">
+> <br>
+> = MeLT. (a Telemetry Data stack).
+
 <br>
 <br>
-A star burning:
-<br>
-<img src="https://scitechdaily.com/images/Burning-Star-Sun-Space-Illustration.jpg" height="400px">
-<br>
-<br>
-<br>
-Three Pillars of Observability:
-<br>
-<img src="https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2019/08/three_pillars_observability.jpg" height="300px">
-<br>
-= MeLT. (a Telemetry Data stack).
+
 #### OpenTelemetry:
 
 > A collection of **tools, APIs, and SDKs**
-used to **instrument, generate, collect, and export** telemetry data.
-<br>
-<br>
-At a high level:
-<br>
-<img src="collector-demo/demo-arch.png" height="300px">
-<br>
-<br>
-In depth:
-<br>
-<img src="https://grafana.com/static/assets/img/blog/spring-boot-grafana-cloud-diagram-opentelemetry-architecture.png" height="400px">
+> used to **instrument, generate, collect, and export** telemetry data.
+> <br>
+> <br>
+> At a high level:
+> <br>
+> <img src="collector-demo/demo-arch.png" height="300px">
+> <br>
+> <br>
+> In depth:
+> <br>
+> <img src="https://grafana.com/static/assets/img/blog/spring-boot-grafana-cloud-diagram-opentelemetry-architecture.png" height="400px">
 
 
 
