@@ -13,7 +13,7 @@ Authored by Ron Nathaniel
 >can be inferred from knowledge 
 > of its **external outputs**
 > <br> 
-<br>
+> <br>
 > A person aging:
 > <br> 
 > <img src="https://media.istockphoto.com/id/1305631710/photo/comparison-of-young-and-elderly-time-young-and-adult.jpg?s=612x612&w=0&k=20&c=d19b9IklmST4YXOPpd0qrDE7fLnbZwmEMFybdUBYSkM=" >
@@ -42,12 +42,13 @@ Authored by Ron Nathaniel
 > <br>
 > At a high level:
 > <br>
+> <br>
 > <img src="collector-demo/demo-arch.png" height="300px">
 > <br>
 > <br>
 > In depth:
 > <br>
-> <img src="https://grafana.com/static/assets/img/blog/spring-boot-grafana-cloud-diagram-opentelemetry-architecture.png" height="400px">
+> <img src="https://grafana.com/static/assets/img/blog/spring-boot-grafana-cloud-diagram-opentelemetry-architecture.png" height="300px">
 
 
 
